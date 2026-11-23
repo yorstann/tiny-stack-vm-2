@@ -4,4 +4,4 @@
 
 # Tiny Stack VM
 
-A table-driven interpreter for make.fun's 37-opcode tiny stack ISA (Node 22, one file): wrapping 32-bit integers, a 256-value stack, a 64-deep call stack, 256 words of memory, and all ten trap codes with exact reference semantics.
+A one-file interpreter for the 37-opcode stack ISA, with exact reference trap semantics.
